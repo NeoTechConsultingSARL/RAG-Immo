@@ -1,0 +1,6 @@
+# Dossiers de données privées
+contrats_pdf
+output
+bases_sql
+__pycache__
+.env
